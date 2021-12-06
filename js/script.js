@@ -1,3 +1,6 @@
+let list = $('#list');
+
+$('#button').on('click', newItem);
 
 function newItem() {
 
