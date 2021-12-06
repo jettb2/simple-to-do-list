@@ -1,6 +1,6 @@
-let list = $('#list');
-
-$('#button').on('click', newItem);
+// let list = $('#list');
+//
+// $('#button').on('click', newItem);
 
 function newItem() {
 
@@ -17,7 +17,7 @@ if(inputValue === '') {
 
  //2. Crossing out an item from the list of items:
 function crossOut() {
-  li.toggleClass('strike')
+  li.toggleClass('strike');
 }
 
 li.on('dblclick', function crossOut() {
