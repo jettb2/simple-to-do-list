@@ -2,7 +2,7 @@
 
 body {
   font: normal normal 13px/16px "Open Sans", sans-serif;
-  background: #dfdfdf;
+  background: #707070;
 }
 
 .container{
@@ -24,7 +24,7 @@ input{
 
 #button{
   display: inline-block;
-  background-color:#fc999b;
+  background-color: #1000ff;
   color:#ffffff;
   border-radius: 5px;
   text-align:center;
